@@ -1,0 +1,8 @@
+# samples
+sample/*.txt
+
+# input files
+input/*.txt
+
+# out (debug)
+out.log
