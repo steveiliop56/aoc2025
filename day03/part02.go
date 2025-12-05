@@ -7,6 +7,8 @@ import (
 	"strings"
 )
 
+// Hey, just wanted to point out that in order to figure out the logic, I had to consult an LLM. Code is mine, logic not so much ;)
+
 func SolvePart02(sample bool) {
 	fmt.Println("Day 03 - Part 02")
 	input := util.LoadInput(3, sample)
